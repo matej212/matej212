@@ -1,16 +1,33 @@
-## Hi there 👋
+# 👋 Hi there, I'm Matěj Kopecký!
 
-<!--
-**matej212/matej212** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! Here you can find various projects showcasing my skills in data analysis and problem-solving. I’m passionate about learning and continuously improving my technical abilities.
 
-Here are some ideas to get you started:
+## 🛠️ Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔹 **Excel**  
+I am proficient in Excel for data analysis, building reports, and automating tasks. I have experience with advanced formulas, pivot tables, data visualization, and macros.
+
+### 🔹 **SQL (Beginner)**  
+I’m a beginner in SQL, currently learning how to query databases, work with joins, and perform basic data manipulations.
+
+## 📚 Projects
+
+Feel free to check out my repositories where I apply these skills. I’m always open to learning and contributing to new projects.
+
+---
+
+## 📊 Tech Stack:
+
+- **Excel**  
+- **SQL** (Beginner)  
+- **Python** (Beginner)  
+
+---
+
+## 🔗 Connect with me:
+
+- [LinkedIn](https://www.linkedin.com/in/matejkopecky1/)
+
+---
+
+Thank you for visiting my profile! Let’s connect and learn together. 😊
